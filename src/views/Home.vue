@@ -1,6 +1,5 @@
 <template>
   <div class="ma-8">
-    <!-- table -->
     <v-row>
        <v-col cols="6" class="px-10">
         <h1>{{userName}}，您好</h1>

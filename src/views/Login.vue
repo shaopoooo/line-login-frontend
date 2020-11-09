@@ -13,7 +13,7 @@
           <v-card-title>請登入</v-card-title>
 
           <v-card-actions class="pa-6">
-            <a href="/api/login">
+            <a href="/api/login" style="text-decoration: none;">
               <v-btn color="#00c300" class="white--text">
                 <v-img
                 left
